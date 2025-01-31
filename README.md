@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShounakHerekar
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning Electronics and communication engineering
+- 🌱 I’m an Electronics and Communication Engineer
 
 <!---
 ShounakHerekar/ShounakHerekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
